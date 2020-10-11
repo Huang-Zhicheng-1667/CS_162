@@ -5,7 +5,9 @@
 ## 1. Discuss with classmates on the discussion boards and show that you can create a document with the following:
 
 ### 1. how do you think you would add file reading and writing functionality to your menu program,
+Like cmd, create a list of directory and search in it.
 ### 2. how do you think the try and except clauses of Python work and what exactly the FileNotFoundError class is,
+When there is a exception happens to the program, the program will corresponds to a specific type to handle the exception.
 ### 3. identify sections of your code that you could create methods out of,
 ### 4. design tests that would show your program working correctly (positive tests and negative tests),
 
